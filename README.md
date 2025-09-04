@@ -1,4 +1,4 @@
-## Hi there, This is Shloka! 👋
+## Hello, this is Shloka! 👋
 
 <!--
 **shlokaGit/shlokaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
